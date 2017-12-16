@@ -95,7 +95,7 @@ li a:hover:not(.active) {
 /*MAIN FEED*/
 #PAGECONTENT {
     align-items: baseline;
-    position:center;
+    position: center;
     text-align: center;
     float: right;
     width: 78%;
