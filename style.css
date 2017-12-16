@@ -94,7 +94,7 @@ li a:hover:not(.active) {
 }
 /*MAIN FEED*/
 #PAGECONTENT {
-    align-items: baseline center;
+    align-items: baseline;
     position:center;
     text-align: center;
     float: right;
